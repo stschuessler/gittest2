@@ -1,7 +1,5 @@
 # Kapitel Eins
 
-Hallo lieber Leser.
+Hallo liebe Leser*innen.
 
-Füge in der nächsten Zeile einen dir beliebigen Satz ein.
-
-- Your sentence: 
+Ich freue mich auf die nächsten Wochen mit euch !
